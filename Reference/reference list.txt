@@ -1,0 +1,5 @@
+Udacity - Intro to Data Science
+
+http://ggplot.yhathq.com/
+
+http://www.scipy.org/
